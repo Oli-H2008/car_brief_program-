@@ -1,7 +1,7 @@
 this code is owned by any of the accepted collabarators of the repository, feel free to use, edit, and improve the code.
 
 to run the code, you require:
-- version 5 file, or other version you want to run (older versions may be incomplete or un-optimised, or changes may have to bade in the main and secondary run files for it to work correctly)
+- version 5 file, or other version you want to run (older versions may be incomplete or un-optimised, or changes may have to be made in the main and secondary run files for it to work correctly)
 - main file
 - secondary file
 
